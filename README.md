@@ -2,6 +2,10 @@
 Assignment solutions for the entire IBM data science professional certification. 
 
 
+
+
+Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
+
 The courses enlisted in this specialization are as follows:
 
  What is Data Science?
